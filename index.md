@@ -1,5 +1,7 @@
 # Dictionary of Bells
 
+[How to Contribute](./how-to-contribute.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mackrusing/bell-dictionary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
